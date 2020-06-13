@@ -1,2 +1,2 @@
-## Jest in React
+## TDD with Jest and Enzyme in React
 
